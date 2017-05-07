@@ -221,8 +221,3 @@ void changeColor(){
 }
 
 
-/* leo_hanke@web.de
- *  alex.schwarz@hotmail.de
- *  goessling32@gmail.com
- *  leonaldejohann@gmail.com
- */
